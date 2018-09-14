@@ -46,7 +46,7 @@ function largestOfFour(arr) {
   })
   var b2 = animals.map((animals)=>animals.name)
   var c2 = animals.map((animals)=>animals.name+'is a '+animals.species)
-//console.log(c2)
+console.log(b2)
 
 //reduce functions - can do any array transformation
 
